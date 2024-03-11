@@ -1,4 +1,4 @@
-> # Yes Bank Stock Closing Price Prediction
+> #  Retail Sales predictions
 ### Problem Statement
 Rossmann operates over 3,000 drug stores in 7 European countries. Rossmann store managers are currently tasked with predicting their daily sales up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. You are provided with historical sales data for 1,115 Rossmann Stores, The task is to forecast the "Sales" column for the test set. Note that some Stores in the dataset were temporarily closed for refurbishment.
 
