@@ -34,14 +34,14 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Rossmann store
 
 At that point, we did information visualization to get the relationship between the variables.
 
-> Missing Values
-![Missing Values](https://github.com/deepakkush02/Yes-Bank-Stock-Closing-Price-Prediction/blob/main/Missing%20Values%20.png)
+Missing Values
+  ![Missing Values](https://github.com/deepakkush02/Yes-Bank-Stock-Closing-Price-Prediction/blob/main/Missing%20Values%20.png)
 
-> Sales according to month
-![Sales according to month](https://github.com/deepakkush02/Yes-Bank-Stock-Closing-Price-Prediction/blob/main/Sales%20According%20To%20Month.png)
+Sales according to month
+  ![Sales according to month](https://github.com/deepakkush02/Yes-Bank-Stock-Closing-Price-Prediction/blob/main/Sales%20According%20To%20Month.png)
 
-> Sales according to stateholiday and assortment
-![Sales according to stateholiday and assortment](https://github.com/deepakkush02/Yes-Bank-Stock-Closing-Price-Prediction/blob/main/Sales%20according%20to%20stateholiday%20and%20assortment.png)
+Sales according to stateholiday and assortment
+  ![Sales according to stateholiday and assortment](https://github.com/deepakkush02/Yes-Bank-Stock-Closing-Price-Prediction/blob/main/Sales%20according%20to%20stateholiday%20and%20assortment.png)
 
-> Store open or close according to week day
-![Store open or close according to week day](https://github.com/deepakkush02/Yes-Bank-Stock-Closing-Price-Prediction/blob/main/Store%20open%20or%20close%20according%20to%20week%20day.png)
+Store open or close according to week day
+  ![Store open or close according to week day](https://github.com/deepakkush02/Yes-Bank-Stock-Closing-Price-Prediction/blob/main/Store%20open%20or%20close%20according%20to%20week%20day.png)
