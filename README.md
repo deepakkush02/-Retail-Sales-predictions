@@ -8,7 +8,7 @@ After outlining our problem statement, we started by gathering our data, which i
 
 At that point, we did information visualization to get the relationship between the variables.
 
-Missing Values
+** Missing Values **
 ![Missing Values](https://github.com/deepakkush02/Yes-Bank-Stock-Closing-Price-Prediction/blob/main/Missing%20Values%20.png)
 
 Sales according to month
