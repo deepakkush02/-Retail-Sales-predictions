@@ -36,8 +36,40 @@ Store.csv - supplemental information about the stores
   10. PromoInterval
 
 #### ALGORITHMS USED:
-I. Linear Regression, II. Linear Regression With Regularization,  III. Decision Tree IV. Ensemble Of Random forest.
+I. Linear Regression, III. Decision Tree, IV. Ensemble Of Random forest.
 
+#### Steps:
+ 1. Understanding Variable
+ 2. Data Wrangling
+ 3. Handling Outliers
+ 4. Categorical Encoding
+ 5. Feature Manipulation & Selection
+ 6. Data Transformation
+ 7. Data Scaling
+ 8. Data Splitting
+ 9. ML Model Implementation
+
+> # Conclusion
+### EDA Conclusion
+We originally performed EDA on each feature of our datset over the course of our investigation. Sales, our dependent variable, was first analyzed and converted. Next, we examined categorical variables and eliminated those that were dominated by a single class. We also examined numerical variables and used the corr() Function to determine their correlation, distribution, and relationship to the dependent variable. Finally, for multicollinearity, we used the VIF Function that we had developed. Additionally, we hot encoded the categorical variables and deleted several numerical characteristics with a large percentage of 0 values.
+
+As my observation Sales are highest during three month of the year i.e.,July, November and December and least sales are during the month of May.
+Sales increases year by year because of stores gives discount on productst.
+When School is closes Some stores sales droping but B type of store no effect on sales when school open or close.
+Mostly Sales of B type of Assortment (Extra things).
+Sales are maximum during the Public Holidays, where are during the religious occassions, like Easter or Christmas, the sales are lower , most of sales of B type assortment of all Holiday.
+As my ovservation the highest sales belonged to the store type A due to the high number of type a stores in our dataset. Store type a and c had a similar kind of sales and customer share.
+
+### Conclusion Ml Models: 
+We Used three types of Machin learning algorithm for best prediction Linear Regressions, Decision Tree and Hyperparmeter techniques.
+
+First we start with Linear Regression we have approx 70% accuracy and R2 0.82 on test data but this is not upto the mark. So for more accuracy we moved further with more complex model i.e., Decision Tree.
+
+On test data, this model has an almost 94% accuracy rate or R2 0.95 , which is better than the linear regression model. But in order to ensure your happiness, we also ran a Random Forest Regressor model.
+
+We achieved around 95% accuracy or R2 0.96 on test data with our model, which is an improvement over the prior model.
+
+The best outcome is being produced by the Random Forest Regresson. So, in order to forecast our model, we will utilize Random Forest Regressor.
 
 
 
