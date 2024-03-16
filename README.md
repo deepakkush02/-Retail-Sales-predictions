@@ -8,7 +8,10 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Rossmann store
    Wrangling, which involves handling null values by looking for outliers. Second, two datasets were combined. After that, we typecast.
 
 
-### Datasets 
+### Datasets
+Rossmann Stores Data.csv - historical data including Sales
+Store.csv - supplemental information about the stores
+
 > Rossmann Stores Data
   1. Store
   2. DayOfWeek
@@ -31,6 +34,11 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Rossmann store
   8. Promo2SinceWeek
   9. Promo2SinceYear
   10. PromoInterval
+
+#### ALGORITHMS USED:
+I. Linear Regression, II. Linear Regression With Regularization,  III. Decision Tree IV. Ensemble Of Random forest.
+
+
 
 
 
