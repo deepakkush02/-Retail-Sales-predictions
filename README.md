@@ -30,6 +30,9 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Rossmann store
   7. Promo2
   8. Promo2SinceWeek
   9. Promo2SinceYear
-  10. PromoInterval 
+  10. PromoInterval
+
+
+
 
 
