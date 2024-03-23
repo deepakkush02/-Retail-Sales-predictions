@@ -51,11 +51,11 @@ I. Linear Regression, III. Decision Tree, IV. Ensemble Of Random forest.
 
 > # Conclusion
 ### EDA Conclusion
-We originally performed EDA on each feature of our datset over the course of our investigation. Sales, our dependent variable, was first analyzed and converted. Next, we examined categorical variables and eliminated those that were dominated by a single class. We also examined numerical variables and used the corr() Function to determine their correlation, distribution, and relationship to the dependent variable. Finally, for multicollinearity, we used the VIF Function that we had developed. Additionally, we hot encoded the categorical variables and deleted several numerical characteristics with a large percentage of 0 values.
+We originally performed EDA on each feature of our dataset over the course of our investigation. Sales, our dependent variable, was first analyzed and converted. Next, we examined categorical variables and eliminated those that were dominated by a single class. We also examined numerical variables and used the corr() Function to determine their correlation, distribution, and relationship to the dependent variable. Finally, for multicollinearity, we used the VIF Function that we had developed. Additionally, we hot-encoded the categorical variables and deleted several numerical characteristics with a large percentage of 0 values.
 
-As my observation Sales are highest during three month of the year i.e.,July, November and December and least sales are during the month of May.
-Sales increases year by year because of stores gives discount on productst.
-When School is closes Some stores sales droping but B type of store no effect on sales when school open or close.
+As my observation Sales are highest during the three months of the year i.e., July, November and December and the least sales are during the month of May.
+Sales increase year by year because stores give discounts on products.
+When School is closed Some stores sales drop but B type of store does not affect sales when the school opens or closes.
 Mostly Sales of B type of Assortment (Extra things).
 Sales are maximum during the Public Holidays, where are during the religious occassions, like Easter or Christmas, the sales are lower , most of sales of B type assortment of all Holiday.
 As my ovservation the highest sales belonged to the store type A due to the high number of type a stores in our dataset. Store type a and c had a similar kind of sales and customer share.
